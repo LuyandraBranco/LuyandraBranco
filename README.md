@@ -1,4 +1,4 @@
-### Hi👋, I'm Luyandra Luyandra Branco
+## Hi👋, I'm Luyandra Luyandra Branco
 <h3>I'm FullStack Developer 😄👌</h3>
 
 [![Luyandra Branco](https://img.shields.io/website?label=Luyfolio&style=for-the-badge&url=https://luyfolio.vercel.app/)](https://luyfolio.vercel.app/)
@@ -6,6 +6,8 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luyandra-branco-494973206/)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=dracula&count_private=true)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact" alt="LuyandraBranco" /></p>
 
 ## Languages
 <p align="left"> 
@@ -24,9 +26,7 @@
   <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  />
   <img align="center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  /> 
 <p>
-Lover of technology, committed to educating and impacting lives through the art of programming.
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact" alt="LuyandraBranco" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuyandraBranco&" alt="LuyandraBranco" /></p>
   
 ### My recent works:

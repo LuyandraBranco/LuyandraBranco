@@ -1,4 +1,4 @@
-## Hi👋, I'm Luyandra Luyandra Branco and I'm Fullstack Developer 😄
+## Hi👋, I'm Luyandra Luyandra Branco 😄
 
 [![Luyandra Branco](https://img.shields.io/website?label=Luyfolio&style=for-the-badge&url=https://luyfolio.vercel.app/)](https://luyfolio.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luyandra_branco/)

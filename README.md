@@ -1,5 +1,5 @@
 ### Hi👋, I'm Luyandra Luyandra Branco
-<h3 align="center">I'm FullStack Developer 😄👌</h3>
+<h3>I'm FullStack Developer 😄👌</h3>
 
 [![Luyandra Branco](https://img.shields.io/website?label=Luyfolio&style=for-the-badge&url=https://luyfolio.vercel.app/)](https://luyfolio.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luyandra_branco/)
@@ -27,10 +27,7 @@
 Lover of technology, committed to educating and impacting lives through the art of programming.
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact" alt="LuyandraBranco" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&locale=en" alt="LuyandraBranco" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuyandraBranco&" alt="LuyandraBranco" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuyandraBranco&" alt="LuyandraBranco" /></p>
   
 ### My recent works:
 - [Eat Explore Web Application](https://eat-explore-web-application.vercel.app/)<br/>

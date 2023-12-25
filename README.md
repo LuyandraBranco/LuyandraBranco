@@ -5,7 +5,7 @@
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luyandra-branco-494973206/)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact" alt="LuyandraBranco" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact&theme=dracula" alt="LuyandraBranco" /></p>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=dracula&count_private=true" alt="LuyandraBranco" /></p>
 
@@ -30,7 +30,7 @@
   <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 <p>
   
-<p align="left">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuyandraBranco&" alt="LuyandraBranco" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuyandraBranco&theme=dracula" alt="LuyandraBranco" /></p>
   
 ## My recent works:
 - [Eat Explore Web Application](https://eat-explore-web-application.vercel.app/)<br/>

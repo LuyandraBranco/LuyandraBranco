@@ -32,7 +32,7 @@
   
 <p align="left">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuyandraBranco&" alt="LuyandraBranco" /></p>
   
-### My recent works:
+## My recent works:
 - [Eat Explore Web Application](https://eat-explore-web-application.vercel.app/)<br/>
 - [CV Composer](https://cv-composer-black.vercel.app/)<br/>
 - [Tumbayko Tem Tudo](https://tumbayko.vercel.app/)<br/>

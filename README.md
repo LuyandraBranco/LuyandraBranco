@@ -1,6 +1,4 @@
 ## Hi👋, I'm Luyandra Luyandra Branco 😄
-
-[![Luyandra Branco](https://img.shields.io/website?label=Luyfolio&style=for-the-badge&url=https://luyfolio.vercel.app/)](https://luyfolio.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luyandra_branco/)
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luyandra-branco-494973206/)
 

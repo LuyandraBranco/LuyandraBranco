@@ -1,14 +1,13 @@
-## Hi👋, I'm Luyandra Luyandra Branco and I'm Fullstack Developer
+## Hi👋, I'm Luyandra Luyandra Branco and I'm Fullstack Developer 😄
 
 [![Luyandra Branco](https://img.shields.io/website?label=Luyfolio&style=for-the-badge&url=https://luyfolio.vercel.app/)](https://luyfolio.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luyandra_branco/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luyandra-branco-494973206/)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact" alt="LuyandraBranco" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=dracula&count_private=true" alt="LuyandraBranco" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&locale=en" alt="LuyandraBranco" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=dracula&count_private=true" alt="LuyandraBranco" /></p>
 
 ## My technologies
 <p align="left"> 
@@ -36,13 +35,3 @@
 **LuyandraBranco/LuyandraBranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

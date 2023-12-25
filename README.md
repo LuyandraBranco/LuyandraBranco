@@ -35,11 +35,12 @@
   <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 <p>
   
-<p align="left">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuyandraBranco&theme=dracula" alt="LuyandraBranco" /></p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact&theme=dracula" alt="LuyandraBranco" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=dracula&count_private=true" alt="LuyandraBranco" /></p>
   
 <!--
+<p align="left">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuyandraBranco&theme=dracula" alt="LuyandraBranco" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=dracula&count_private=true" alt="LuyandraBranco" /></p>
 **LuyandraBranco/LuyandraBranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,9 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luyandra-branco-494973206/)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=dracula&count_private=true" alt="LuyandraBranco" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact" alt="LuyandraBranco" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&locale=en" alt="LuyandraBranco" /></p>
+
 
 ## My technologies
 <p align="left"> 

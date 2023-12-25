@@ -4,9 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luyandra_branco/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luyandra-branco-494973206/)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=dracula&count_private=true)
-<p align= "right">
-  &nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact" alt="LuyandraBranco" /></p>
+<p>
+  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=dracula&count_private=true)
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact" alt="LuyandraBranco" />
+</p>
 
 ## My technologies
 <p align="left"> 

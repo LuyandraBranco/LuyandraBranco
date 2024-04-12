@@ -16,23 +16,7 @@
   <img align="center" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"  />
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <p>
-  
-<h3 align="left">My technologies</h3>
-<p align="left"> 
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="skill"  />
-  <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="skill"  />
-  <img align="center" src="https://img.shields.io/badge/nest.js-%23404d59.svg?style=for-the-badge&logo=nest&logoColor=%2361DAFB" alt="skill"  />
-  <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="skill"  />
-  <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  />
-  <img align="center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  /> 
-  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-<p>
-  
+    
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuyandraBranco&show_icons=true&locale=en&layout=compact&theme=dracula" alt="LuyandraBranco" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=dracula&count_private=true" alt="LuyandraBranco" /></p>

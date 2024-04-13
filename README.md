@@ -7,7 +7,7 @@
 - [Tumbayko Tem Tudo](https://tumbayko.vercel.app/)<br/>
 - [AEA- Angola Education Awards](https://angolaeducationawards.com/)<br/>
 
-## <img src="images/gato.gif" width="50" align="center"> &nbsp;Tech Stack
+## Tech Stack
 
 <div align="left">
  <p>
@@ -78,7 +78,7 @@
 
  </p>
 
-## <img src="images/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>

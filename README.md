@@ -35,8 +35,6 @@
 
  </p>
 
-<br>
-
 ## <img src="images/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 
 <div align="center">

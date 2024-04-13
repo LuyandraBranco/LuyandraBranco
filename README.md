@@ -80,7 +80,7 @@
 
 ## GitHub Analytics
 
-<div align="center">
+<div align="left">
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuyandraBranco&layout=compact&theme=aura" alt="evander stats"/>
  </div>

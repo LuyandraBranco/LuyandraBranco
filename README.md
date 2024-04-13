@@ -7,14 +7,58 @@
 - [Tumbayko Tem Tudo](https://tumbayko.vercel.app/)<br/>
 - [AEA- Angola Education Awards](https://angolaeducationawards.com/)<br/>
 
-## Languages
-<p align="left"> 
-  <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="skill"  />
-  <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="skill"  />
-  <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="skill"  />
-  <img align="center" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"  />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<p>
+## <img src="images/gato.gif" width="50" align="center"> &nbsp;Tech Stack
+
+<div align="left">
+ <p>
+    <a href='https://html.com/'>
+      <img src="https://skillicons.dev/icons?i=html"/>
+    </a>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+      <img src="https://skillicons.dev/icons?i=css"/>
+    </a>
+    <a href='https://www.javascript.com/'>
+      <img src="https://skillicons.dev/icons?i=js"/>
+    </a>
+    <a href='https://www.typescriptlang.org/'>
+      <img src="https://skillicons.dev/icons?i=ts"/>
+    </a>
+    <a href='https://reactjs.org/'>
+      <img src="https://skillicons.dev/icons?i=react"/>
+    </a>
+    <a href='https://nextjs.org/'>
+      <img src="https://skillicons.dev/icons?i=nextjs"/>
+    </a>
+    <a href='https://nodejs.org/en/'>
+      <img src="https://skillicons.dev/icons?i=nodejs"/>
+    </a>
+    <a href='https://git-scm.com/'>
+     <img src="https://skillicons.dev/icons?i=git"/>
+    </a>
+    <a href='https://styled-components.com/'>
+      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
+    </a>
+    <a href='https://tailwindui.com/'>
+     <img src="https://skillicons.dev/icons?i=tailwind"/>
+    </a>
+    <a href='https://sass-lang.com/'>
+     <img src="https://skillicons.dev/icons?i=sass"/>
+    </a>
+     <a href='https://nestjs.com/logo-small.ede75a6b.svg'>
+     <img src="https://skillicons.dev/icons?i=nestjs"/>
+    </a>
+    </a>
+     <a href='https://fastify.dev/img/logos/fastify-black.svg'>
+     <img src="https://skillicons.dev/icons?i=fastify"/>
+    </a>
+    <a href='https://www.figma.com/'>
+     <img src="https://skillicons.dev/icons?i=figma"/>
+    </a>
+ </p>
+
+</div>
+  
+<br>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me
 

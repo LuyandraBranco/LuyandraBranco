@@ -1,6 +1,5 @@
 ## Hi👋, I'm Luyandra Branco 😄
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luyandra_branco/)
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luyandra-branco-494973206/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuyandraBrancoo&color=0e14c2" alt="Profile views" /> </p>
 
 ## My recent works ✨:
 - [Eat Explore Web Application](https://eat-explore-web-application.vercel.app/)<br/>

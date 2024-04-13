@@ -57,8 +57,6 @@
  </p>
 
 </div>
-  
-<br>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me
 

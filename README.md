@@ -48,8 +48,8 @@
      <img src="https://skillicons.dev/icons?i=nestjs"/>
     </a>
     </a>
-     <a href='https://fastify.dev/img/logos/fastify-black.svg'>
-     <img src="https://skillicons.dev/icons?i=fastify"/>
+     <a href='https://themeselection-cdn.b-cdn.net/wp-content/uploads/2023/03/Fastify-JS.png'>
+     <img src="https://skillicons.dev/icons?i=fastifyjs"/>
     </a>
     <a href='https://www.figma.com/'>
      <img src="https://skillicons.dev/icons?i=figma"/>

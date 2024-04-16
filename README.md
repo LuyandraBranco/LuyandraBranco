@@ -48,9 +48,6 @@
      <img src="https://skillicons.dev/icons?i=nestjs"/>
     </a>
     </a>
-     <a href='https://themeselection-cdn.b-cdn.net/wp-content/uploads/2023/03/Fastify-JS.png'>
-     <img src="https://themeselection-cdn.b-cdn.net/wp-content/uploads/2023/03/Fastify-JS.png"/>
-    </a>
     <a href='https://www.figma.com/'>
      <img src="https://skillicons.dev/icons?i=figma"/>
     </a>

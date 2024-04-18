@@ -71,6 +71,8 @@
   <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://luyandrabranco.online/"/>
  </a>
 
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=manjjack&theme=dark&hide_border=true)<br/>
+
  </p>
 
 ## GitHub Analytics

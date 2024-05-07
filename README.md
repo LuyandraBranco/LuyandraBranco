@@ -80,5 +80,5 @@
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuyandraBranco&layout=compact&theme=aura" alt="Luyandra Branco stats"/>
  </div>
 <br>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuyandraBranco&theme=aura" alt="LuyandraBranco" /></p>
+ /*<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuyandraBranco&theme=aura" alt="LuyandraBranco" /></p>*/
     

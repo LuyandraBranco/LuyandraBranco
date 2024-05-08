@@ -76,7 +76,7 @@
 ## GitHub Analytics
 
 <div align="left">
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide=issues&hide_rank=true&hide_title=true&hide_border=true&custom_title=Luyandra's Stats&token=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" alt="Luyandra Branco stats" />
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=LuyandraBranco&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide=issues&hide_rank=true&hide_title=true&hide_border=true&custom_title=Luyandra's Stats" alt="Luyandra Branco stats" />
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuyandraBranco&layout=compact&theme=aura" alt="Luyandra Branco stats"/>
  </div>
 <br>

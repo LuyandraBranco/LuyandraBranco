@@ -2,6 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuyandraBrancoo&color=0e14c2" alt="Profile views" /> </p>
 
 ## My recent works ✨:
+- [Xceltutors](https://frontend.xceltutors.com/)<br/>
+- [Tourlandia](https://tourlandia.site/)<br/>
 - [Outfitsize](https://outfitsize.com/)<br/>
 - [CSS Unit Convert](https://cssunitconvert.com)<br/>
 - [Tumbayko Tem Tudo](https://tumbayko.vercel.app/)<br/>
